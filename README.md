@@ -1,6 +1,9 @@
 # How to Handle data
 
 ### Outlier Detection
+#### Simple ways
+- Tukey fences (InterQuartile Range, IQR)
+- Z-score
 #### Automatic outlier detection
 - [Isolation Forest (iForest)](https://github.com/bbh-pharm/How-to-Handle-data/blob/main/Outlier-detection/Isolation_Forest_(iForest).ipynb)
 - [Local Outlier Factor (LOF)](https://github.com/bbh-pharm/How-to-Handle-data/blob/main/Outlier-detection/Local_Outlier_Factor_(LOF).ipynb)
